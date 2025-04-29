@@ -1,0 +1,63 @@
+.logo{
+    margin-right: 20px;
+}
+.img{
+    width: 35px; 
+    height: 35px; 
+    vertical-align: middle;
+}
+.titulo{
+    font-size: 24px; 
+    font-weight: bold; 
+    margin-left: 10px;
+}
+.botones{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.tabla{
+    border-collapse: collapse;
+    width: 80%; 
+    text-align: center;
+    margin-top: 20px;
+    margin: auto;
+}
+.tr{
+    background-color: #48C78E;
+}
+.th{
+    color: #000;
+}
+.contenedor-botones {
+    margin-top: 20px;
+  }
+  
+.boton-actualizar {
+    background-color: #48C78E;
+    color: #000;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+} 
+.boton-cancelar {
+    background-color: #8b8888;
+    color: #000;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.boton-eliminar {
+    background-color: #ff6685;
+    color: #000;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+}
